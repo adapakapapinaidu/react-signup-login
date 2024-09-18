@@ -33,3 +33,7 @@ npm install
 ## Start the Development Server
 
 npm start
+
+Browser Output:
+
+![Screenshot 2024-09-18 101955](https://github.com/user-attachments/assets/b5cce045-4707-4abb-9eb2-15b682bbc86e)
